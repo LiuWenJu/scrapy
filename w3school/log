@@ -1,0 +1,36 @@
+2015-11-10 17:47:27 [scrapy] INFO: Scrapy 1.0.3 started (bot: w3school)
+2015-11-10 17:47:27 [scrapy] INFO: Optional features available: ssl, http11
+2015-11-10 17:47:27 [scrapy] INFO: Overridden settings: {'NEWSPIDER_MODULE': 'w3school.spiders', 'SPIDER_MODULES': ['w3school.spiders'], 'LOG_FILE': 'log', 'BOT_NAME': 'w3school'}
+2015-11-10 17:47:27 [scrapy] INFO: Enabled extensions: CloseSpider, TelnetConsole, LogStats, CoreStats, SpiderState
+2015-11-10 17:47:27 [scrapy] INFO: Enabled downloader middlewares: HttpAuthMiddleware, DownloadTimeoutMiddleware, UserAgentMiddleware, RetryMiddleware, DefaultHeadersMiddleware, MetaRefreshMiddleware, HttpCompressionMiddleware, RedirectMiddleware, CookiesMiddleware, ChunkedTransferMiddleware, DownloaderStats
+2015-11-10 17:47:27 [scrapy] INFO: Enabled spider middlewares: HttpErrorMiddleware, OffsiteMiddleware, RefererMiddleware, UrlLengthMiddleware, DepthMiddleware
+2015-11-10 17:47:27 [scrapy] INFO: Enabled item pipelines: W3SchoolPipeline
+2015-11-10 17:47:27 [scrapy] INFO: Spider opened
+2015-11-10 17:47:27 [scrapy] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2015-11-10 17:47:27 [scrapy] DEBUG: Telnet console listening on 127.0.0.1:6024
+2015-11-10 17:47:27 [scrapy] INFO: Closing spider (finished)
+2015-11-10 17:47:27 [scrapy] INFO: Dumping Scrapy stats:
+{'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2015, 11, 10, 9, 47, 27, 456507),
+ 'log_count/DEBUG': 1,
+ 'log_count/INFO': 7,
+ 'start_time': datetime.datetime(2015, 11, 10, 9, 47, 27, 452408)}
+2015-11-10 17:47:27 [scrapy] INFO: Spider closed (finished)
+2015-11-10 17:49:28 [scrapy] INFO: Scrapy 1.0.3 started (bot: w3school)
+2015-11-10 17:49:28 [scrapy] INFO: Optional features available: ssl, http11
+2015-11-10 17:49:28 [scrapy] INFO: Overridden settings: {'NEWSPIDER_MODULE': 'w3school.spiders', 'SPIDER_MODULES': ['w3school.spiders'], 'LOG_FILE': 'log', 'BOT_NAME': 'w3school'}
+2015-11-10 17:49:28 [scrapy] INFO: Enabled extensions: CloseSpider, TelnetConsole, LogStats, CoreStats, SpiderState
+2015-11-10 17:49:28 [scrapy] INFO: Enabled downloader middlewares: HttpAuthMiddleware, DownloadTimeoutMiddleware, UserAgentMiddleware, RetryMiddleware, DefaultHeadersMiddleware, MetaRefreshMiddleware, HttpCompressionMiddleware, RedirectMiddleware, CookiesMiddleware, ChunkedTransferMiddleware, DownloaderStats
+2015-11-10 17:49:28 [scrapy] INFO: Enabled spider middlewares: HttpErrorMiddleware, OffsiteMiddleware, RefererMiddleware, UrlLengthMiddleware, DepthMiddleware
+2015-11-10 17:49:28 [scrapy] INFO: Enabled item pipelines: W3SchoolPipeline
+2015-11-10 17:49:28 [scrapy] INFO: Spider opened
+2015-11-10 17:49:28 [scrapy] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2015-11-10 17:49:28 [scrapy] DEBUG: Telnet console listening on 127.0.0.1:6024
+2015-11-10 17:49:28 [scrapy] INFO: Closing spider (finished)
+2015-11-10 17:49:28 [scrapy] INFO: Dumping Scrapy stats:
+{'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2015, 11, 10, 9, 49, 28, 531711),
+ 'log_count/DEBUG': 1,
+ 'log_count/INFO': 7,
+ 'start_time': datetime.datetime(2015, 11, 10, 9, 49, 28, 527527)}
+2015-11-10 17:49:28 [scrapy] INFO: Spider closed (finished)
